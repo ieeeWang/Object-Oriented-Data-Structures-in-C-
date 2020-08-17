@@ -9,6 +9,7 @@ The homeworks are done in a Linux compatible C++ work environment on (1) PC usin
 (1) in WSL, Download the packages used for C++ by running the following commands in the Bash terminal:
 
 sudo apt-get update
+
 sudo apt-get install gcc g++ clang make gdb valgrind graphviz imagemagick git zip unzip
 
 (2) C++ Environment Setup on AWS Cloud9:
