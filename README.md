@@ -14,7 +14,7 @@ sudo apt-get install gcc g++ clang make gdb valgrind graphviz imagemagick git zi
 ```
 
 
-(2) on AWS Cloud9, C++ Environment Setup:
+(2) on AWS Cloud9 (Amazon Linux), C++ Environment Setup:
 ```shell
 sudo yum install -y gcc72 gcc72-c++
 ```
